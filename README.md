@@ -1,4 +1,4 @@
-<h1>Hi there👋, my name is Shaun <br/><a href="https://github.com/shaunmane">Programmer</a>, <a href="https://www.linkedin.com/in/shaun-mane/">AWS Cloud Practitioner</a>, <a href="https://shaunmanesm.wixsite.com/shaunmane">Photographer</a></h1>
+<h1>Hi there👋, my name is Shaun <br/><a href="https://github.com/shaunmane">Programmer</a>, <a href="https://shaunmane.com">AWS Cloud Practitioner</a>, <a href="https://shaunmanesm.wixsite.com/shaunmane">Photographer</a></h1>
 
 - 🔭 I’m currently working on AWS Projects
 - 🐍 I’m currently learning Python
