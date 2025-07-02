@@ -1,67 +1,67 @@
-<h1>Hi there👋, my name is Shaun <br/><a href="https://github.com/shaunmane">Programmer</a>, <a href="https://shaunmane.com">AWS Cloud Practitioner</a>, <a href="https://shaunmanesm.wixsite.com/shaunmane">Photographer</a></h1>
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" /> I'm Shaun Mane 
+<!---
+<br/><a href="https://github.com/shaunmane">Programmer</a>, <a href="https://shaunmane.com">AWS Cloud Practitioner</a>, <a href="https://shaunmanesm.wixsite.com/shaunmane">Photographer</a></h1>
+--->
 
-- 🔭 I’m currently working on AWS Projects
-- 🐍 I’m currently learning Python
+![](https://komarev.com/ghpvc/?username=shaunmane&label=Profile%20Visits&color=blue&style=flat&color=2bbc8a)
+
+I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in the intergration space with knowledge in AWS cloud services and DevOps practices.
+
+- 🌱 Currently learning: Terraform & Kubernetes
 - 👯 I’m looking to collaborate on Cloud Computing
-- 🤔 I’m looking for help with coding
+- 🤔 Interested in everything Cloud Native
+- ❤️ Open Source Software
 
-<h2>🤳 Connect with me:</h2>
 
-- <a href="https://www.instagram.com/mane_shaun/">Instagram</a>
-- <a href="https://www.linkedin.com/in/shaun-mane/">LinkedIn</a>
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CICD-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-Serverless-informational?style=flat&logo=serverless&logoColor=white&color=2bbc8a)
 
-<!--
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+## 💻 Featured Projects 
+### [Distributed App](https://github.com/shaunmane/distributed-app)
+A project demonstrating the architecture and implementation of a distributed application. This repo includes examples of microservices, inter-service communication, load balancing, and fault tolerance, providing hands-on experience with distributed systems concepts. Ideal for exploring scalability, resilience, and deployment strategies in cloud-native environments. 
+[`View Repository`](https://github.com/shaunmane/distributed-app)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA) 
+### [Cloud Resume API](https://github.com/shaunmane/cloud-resume-api)
+A serverless API (that serves resume data in JSON format) using AWS Lambda and DynamoDB, integrated with GitHub Actions. 
+[`View Repository`](https://github.com/shaunmane/cloud-resume-api)
 
-<h2> 🤳 Connect with me:</h2>
+### [Terraform Beginner Bootcamp](https://github.com/shaunmane/terraform-beginner-bootcamp-2023) 
+A hands-on repository for learning HashiCorp Terraform fundamentals. This project includes beginner-friendly exercises, examples, and configuration files covering core Terraform concepts like providers, resources, variables, outputs, and state management. 
+[`View Repository`](https://github.com/shaunmane/terraform-beginner-bootcamp-2023)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
--->
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Certifications 
+- [AWS Certified Developer](https://www.credly.com/badges/02482651-afaf-42e5-91e6-5b2e4f8d71f1) - Associate
+- [AWS Certified Solutions Architect]() - Associate 
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b765219f-bfe6-4c6b-99b5-f4e7b5c6172b)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with Me 
+[![Portfolio](https://img.shields.io/badge/shaunmane.com-%23000000.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=%23FF7139)](https://shaunmane.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunmane/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mane_shaun/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shaun__mane)
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/shaunmane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunmane&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/shaunmane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaunmane&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shaun's GitHub Stats" />
+</a>
+
 
 <!---
 shaunmane/shaunmane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
