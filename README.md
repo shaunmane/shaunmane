@@ -49,7 +49,7 @@ A hands-on repository for learning HashiCorp Terraform fundamentals. This projec
 
 ## 📬 Connect with Me 
 [![Portfolio](https://img.shields.io/badge/shaunmane.com-%23000000.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=%23FF7139)](https://shaunmane.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunmane/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mane/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mane_shaun/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shaun__mane)
 
