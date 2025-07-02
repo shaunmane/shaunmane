@@ -3,7 +3,7 @@
 <br/><a href="https://github.com/shaunmane">Programmer</a>, <a href="https://shaunmane.com">AWS Cloud Practitioner</a>, <a href="https://shaunmanesm.wixsite.com/shaunmane">Photographer</a></h1>
 --->
 
-![](https://komarev.com/ghpvc/?username=shaunmane&label=Profile%20Visits&color=blue&style=flat&color=2bbc8a)
+![](https://komarev.com/ghpvc/?username=shaunmane&label=Profile%20Visits&color=blue&style=flat)
 
 I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in the intergration space with knowledge in AWS cloud services and DevOps practices.
 
