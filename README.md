@@ -42,8 +42,9 @@ A hands-on repository for learning HashiCorp Terraform fundamentals. This projec
 
 
 ## 🏆 Certifications 
-- [AWS Certified Developer](https://www.credly.com/badges/02482651-afaf-42e5-91e6-5b2e4f8d71f1) - Associate
-- [AWS Certified Solutions Architect]() - Associate 
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/4bd01d87-2599-47e3-8c34-7a1214af42ff/public_url)
+- [AWS Certified Developer - Associate](https://www.credly.com/badges/02482651-afaf-42e5-91e6-5b2e4f8d71f1) 
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/36441d01-5513-429a-b30c-7c40965e86b8/public_url) 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b765219f-bfe6-4c6b-99b5-f4e7b5c6172b)
 
 
@@ -56,11 +57,14 @@ A hands-on repository for learning HashiCorp Terraform fundamentals. This projec
 ## 📈 GitHub Stats
 
 <a href="https://github.com/shaunmane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunmane&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/shaunmane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaunmane&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shaun's GitHub Stats" />
-</a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaunmane&theme=apprentice" style="width: 99%;" />
+</a> <br>
+<br>
+<div style="display: flex; width: 100%; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaunmane&theme=apprentice" style="width: 49%; height: 275px; object-fit: fill;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaunmane&theme=apprentice" style="width: 50%; height: 275px; object-fit: fill;">
+</div>
+
 
 
 <!---
