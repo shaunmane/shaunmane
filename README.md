@@ -58,7 +58,7 @@ A hands-on repository for learning HashiCorp Terraform fundamentals. This projec
 
 <a href="https://github.com/shaunmane">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaunmane&theme=apprentice" style="width: 99%;" />
-</a> <br>
+</a>
 <br>
 <div style="display: flex; width: 100%; justify-content: space-between;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaunmane&theme=apprentice" style="width: 49%; height: 275px; object-fit: fill;">
