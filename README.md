@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=shaunmane&label=Profile%20Visits&color=blue&style=flat)
 
-I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in the intergration space with knowledge in AWS cloud services and DevOps practices.
+I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in the integration space with knowledge in AWS cloud services and DevOps practices.
 
-- 🌱 Currently learning: Terraform & Kubernetes
+- 🌱 Currently learning: Kubernetes
 - 👯 I’m looking to collaborate on Cloud Computing
 - 🤔 Interested in everything Cloud Native
 - ❤️ Open Source Software
@@ -28,6 +28,10 @@ I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in t
 
 
 ## 💻 Featured Projects 
+### [AWS DevOps Blue/Green Pipeline Workshop (Terraform IaC)](https://github.com/shaunmane/Blue-Green-pipeline-with-Amazon-ECS)
+A Terraform-built CI/CD pipeline that builds a Docker image, pushes it to ECR, and deploys it to ECS using CodePipeline, CodeBuild, and CodeDeploy with Blue/Green traffic shifting.
+[`View Repository`](https://github.com/shaunmane/Blue-Green-pipeline-with-Amazon-ECS)
+
 ### [Distributed App](https://github.com/shaunmane/distributed-app)
 A project demonstrating the architecture and implementation of a distributed application. This repo includes examples of microservices, inter-service communication, load balancing, and fault tolerance, providing hands-on experience with distributed systems concepts. Ideal for exploring scalability, resilience, and deployment strategies in cloud-native environments. 
 [`View Repository`](https://github.com/shaunmane/distributed-app)
@@ -42,6 +46,7 @@ A hands-on repository for learning HashiCorp Terraform fundamentals. This projec
 
 
 ## 🏆 Certifications 
+- [GitHub Actions](https://learn.microsoft.com/api/credentials/share/en-us/ShaunMane-9677/6C6D6C8BAB3A2759?sharingId=F22949943BD2A181)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/4bd01d87-2599-47e3-8c34-7a1214af42ff/public_url)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/02482651-afaf-42e5-91e6-5b2e4f8d71f1) 
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/36441d01-5513-429a-b30c-7c40965e86b8/public_url) 
