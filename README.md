@@ -46,6 +46,7 @@ A hands-on repository for learning HashiCorp Terraform fundamentals. This projec
 
 
 ## 🏆 Certifications 
+- [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/edb37a07-9d7a-4b71-aa32-2702b250a718/public_url)
 - [GitHub Actions](https://learn.microsoft.com/api/credentials/share/en-us/ShaunMane-9677/6C6D6C8BAB3A2759?sharingId=F22949943BD2A181)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/4bd01d87-2599-47e3-8c34-7a1214af42ff/public_url)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/02482651-afaf-42e5-91e6-5b2e4f8d71f1) 
