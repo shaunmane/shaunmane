@@ -28,6 +28,10 @@ I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in t
 
 
 ## 💻 Featured Projects 
+### [Cloud Resume Challenge - My Portfolio)](https://github.com/shaunmane/cloudresumechallenge)
+A real-world implementation of the popular Cloud Resume Challenge, designed to showcase hands-on cloud engineering, serverless architecture, and DevOps automation skills on AWS.
+[`View Repository`](https://github.com/shaunmane/cloudresumechallenge)
+
 ### [AWS DevOps Blue/Green Pipeline Workshop (Terraform IaC)](https://github.com/shaunmane/Blue-Green-pipeline-with-Amazon-ECS)
 A Terraform-built CI/CD pipeline that builds a Docker image, pushes it to ECR, and deploys it to ECS using CodePipeline, CodeBuild, and CodeDeploy with Blue/Green traffic shifting.
 [`View Repository`](https://github.com/shaunmane/Blue-Green-pipeline-with-Amazon-ECS)
