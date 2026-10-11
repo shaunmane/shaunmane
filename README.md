@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=shaunmane&label=Profile%20Visits&color=blue&style=flat)
 
-I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in the integration space with knowledge in AWS cloud services and DevOps practices.
+I'm a passionate Cloud Engineer with knowledge in AWS cloud services and DevOps practices.
 
-- 🌱 Currently learning: Kubernetes
+- 🌱 Currently learning: Kubernetes 
 - 👯 I’m looking to collaborate on Cloud Computing
 - 🤔 Interested in everything Cloud Native
 - ❤️ Open Source Software
@@ -28,7 +28,7 @@ I'm a passionate Cloud Computing Professional & Junior/Intern AWS Developer in t
 
 
 ## 💻 Featured Projects 
-### [Cloud Resume Challenge - My Portfolio)](https://github.com/shaunmane/cloudresumechallenge)
+### [Cloud Resume Challenge - My Portfolio](https://github.com/shaunmane/cloudresumechallenge)
 A real-world implementation of the popular Cloud Resume Challenge, designed to showcase hands-on cloud engineering, serverless architecture, and DevOps automation skills on AWS.
 [`View Repository`](https://github.com/shaunmane/cloudresumechallenge)
 
